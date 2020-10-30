@@ -1,0 +1,47 @@
+.float{
+    background-color: greenyellow;
+    display: inline-flex;
+}
+nav p{
+    border-right: 1px solid white;
+    width: 190px;
+    height: 20px;
+    margin: 0;
+}
+
+.img{
+    float: right;
+}
+p{
+    text-align: left;
+    margin: 10px 30px 10px 150px;
+    height: 250px;
+    width: 700px;
+    border: 0;
+}
+footer{
+    margin-top: 50px;
+}
+
+h1, h2{
+
+    margin-left: 200px;
+    border-bottom: 2px solid green;
+}
+.bg{
+
+    float: left;
+    margin-left: 10px;
+    margin-top: 100px;
+    
+}
+
+.p{
+    height: 220px;
+}
+#contener{
+    width: 50%;
+    margin: 0 500px 0 500px;
+    border: 1px solid black;
+}
+
